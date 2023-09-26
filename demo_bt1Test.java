@@ -37,6 +37,7 @@ class demo_bt1Test {
         assertEquals("10%", check_per("N", "N", "N"));
     }
 
+
     private String check_per(String a, String b, String c) {
         if (a.equals("Y")) {
             // Co the VIP.
